@@ -2,10 +2,10 @@
 <rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>Home</title>
-    <link>file://localhost/Users/danielelococo/Desktop/Roba%20di%20Domizio/Mac_Zone_Central/Home</link>
+    <link>http://Mac_Zone_Central/Home</link>
     <description>Mac Zone Central &#xE8; un podcast su Apple iniziato nel 2020 ma fallito per pochi spettatori, ma adesso &#xE8; TORNATO per intrattenervi nel 2022!</description>
     <iweb:dateFormat>EEEE d MMMM y</iweb:dateFormat>
-    <iweb:baseURL>file://localhost/Users/danielelococo/Desktop/Roba%20di%20Domizio/Mac_Zone_Central/Home</iweb:baseURL>
+    <iweb:baseURL>http://Mac_Zone_Central/Home</iweb:baseURL>
     <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
   </channel>
 </rss>
